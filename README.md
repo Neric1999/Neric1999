@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Niyizurugero Eric
-- 👀 I’m interested in Mobile app development
+- 👀 I’m interested in Mobile app development and game development using flutter
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on open projects of flutter apps
 - 📫 How to reach me, niyizurugeroeric19@gmail.com
