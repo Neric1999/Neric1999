@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Niyizurugero Eric
+- 👋 Hi, I’m Entrepreneur @Niyizurugero Eric
 - 👀 I’m interested in Mobile app development and game development using flutter
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on open projects of flutter apps
-- 📫 How to reach me, niyizurugeroeric19@gmail.com
+- 🌱 I’m currently working as flutter developer
+- 📫 How to reach me, ericsnow017@gmail.com
 
 <!---
 Neric1999/Neric1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
